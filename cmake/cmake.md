@@ -1,7 +1,13 @@
 # Cmake
 ## Purpose
 Cmake工具用来根据快速构建（生成）对应平台（工具链）的makefile.  
-PS: makefile用来组织和管理代码。
+PS: makefile用来组织和管理代码  
+  
+  
+快速构建项目（对应的工程文件和makefile)  
+支持跨平台  
+支持交叉编译  
+可生成动态库，静态库  
 
 ## Roadmap
 The roadmap can be found by the following web site:
