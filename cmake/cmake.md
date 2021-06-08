@@ -12,8 +12,15 @@ PS: makefile用来组织和管理代码
 ## Roadmap
 The roadmap can be found by the following web site:
 ```
-https://www.kitware.eu/cmake-training/
+https://github.com/SFUMECJF/cmake-examples-Chinese //改连接为下面连接的中文翻译版本
+https://github.com/ttroy50/cmake-examples          //大量的例子
+
+https://www.kitware.eu/cmake-training/             //systematic knowlege and can get a overview regarding which component you shoud study
+
 ```
+
+## To Do List
+To study systematiclly general or baisc knowlege regarding cmake.
 
 ## VAR
 CMAKE_CURRENT_SOURCE_DIR: Cmakelists.txt 所在目录
