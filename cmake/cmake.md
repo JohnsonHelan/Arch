@@ -1,4 +1,8 @@
 # Cmake
+## Purpose
+Cmake工具用来根据快速构建（生成）对应平台（工具链）的makefile.  
+PS: makefile用来组织和管理代码。
+
 ## Roadmap
 The roadmap can be found by the following web site:
 ```
