@@ -102,7 +102,7 @@ This page is used to quickly access to the different domain knowledge.
 ## 控制
 
 [控制 常用的控制算法](https://mp.weixin.qq.com/s/A7briDFQzNFM2oG1-LjNjA)  
-[控制 分辨率、定位精度和重复定位精度](https://mp.weixin.qq.com/s/drpb4mDJXGBu-7XNcjoWBg)
+[控制 分辨率、定位精度和重复定位精度](https://mp.weixin.qq.com/s/drpb4mDJXGBu-7XNcjoWBg)  
 [控制 Python-PID体验](https://mp.weixin.qq.com/s/6Xr9J2fPEF1CVy6l42lM2g)  
 
 ## 图形界面
