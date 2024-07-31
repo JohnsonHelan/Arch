@@ -130,6 +130,7 @@ This page is used to quickly access to the different domain knowledge.
 
 [AI 这次终于能把Transformer弄清楚了](https://mp.weixin.qq.com/s/9z31G3KEYlqSP0Nb-Ap8bw)  
 [AI 从零开始编写神经网络](https://mp.weixin.qq.com/s/1UTzYP-q_KmGU9Kc-JCxkA)  
+[AI OpenCv 傅里叶变换](https://mp.weixin.qq.com/s/yqvl0Z6HzC1TkuVBEWVRyQ)  
 
 ## 硬件
 
